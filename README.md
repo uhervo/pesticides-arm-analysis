@@ -163,3 +163,6 @@ original_pair_rules_metrics_by_locality.xlsx
 
 ## Licence
 Creative Commons Attribution 4.0 International, Copyright (C) 2026 VSB - Technical University of Ostrava
+
+## Authors
+Vojtěch Uher (ORCID: 0000-0002-7475-3625), VSB – Technical University of Ostrava, Czech Republic, vojtech.uher@vsb.cz
