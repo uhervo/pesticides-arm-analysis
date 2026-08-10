@@ -160,3 +160,6 @@ represents a test set of artificially generated data. The original dataset can b
 ```text
 original_pair_rules_metrics_by_locality.xlsx
 ```
+
+## Licence
+Creative Commons Attribution 4.0 International, Copyright (C) 2026 VSB - Technical University of Ostrava
